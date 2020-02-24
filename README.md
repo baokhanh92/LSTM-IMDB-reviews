@@ -14,8 +14,6 @@
 ---
 ## [ 2. THE RESULT ](/9lRMLcbMR--joBvR84z5KA)
 
-### *Our model can predict correctly around 90% fruits of three classes. Here was what we learned how to make our model worked.*
-
 [ **2.1 The model**: ]() 
 1. Word embedding: this layer is used for map each movie review into a vector domain, and similar meaning word usually has vector close to each others.
 2. Padding technique: to control the input length of these vector, we take the max length review and padding the shorter ones with zero.

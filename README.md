@@ -4,6 +4,7 @@
 [ **1.1 About the data**: ]() 
 
 **- The problem:** IMDB movie review sentiment classification problem.
+
 **- The approach:** I will use RNN and LSTM to solve this.
 
 [ **1.2 About the data**: ]() 

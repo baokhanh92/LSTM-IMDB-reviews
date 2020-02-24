@@ -14,7 +14,7 @@
 ---
 ## [ 2. THE RESULT ]()
 [ **2.1 The cleaning data process**: ]() 
-1. Decoded all the word
+1. Decoded all the words.
 2. Padding technique: to control the input length of these vector, we take the max length review and padding the shorter ones with zero.
 
 [ **2.2 The model**: ]() 
